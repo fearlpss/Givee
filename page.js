@@ -190,11 +190,11 @@ export default function Home() {
   }
 
   const rewards = [
-    { id: "robux", name: "Robux", amount: "400 Robux", cost: 4000, icon: "/rewards/robux.svg", description: "Redeem points for a Robux reward." },
-    { id: "vbucks", name: "V-Bucks", amount: "1,000 V-Bucks", cost: 7000, icon: "/rewards/vbucks.svg", description: "Redeem points for a V-Bucks reward." },
-    { id: "tiktok", name: "TikTok Account", amount: "TikTok Account", cost: 12000, icon: "/rewards/tiktok.svg", description: "Redeem points for a TikTok account reward." },
-    { id: "giftcard", name: "Gift Card", amount: "$10 Gift Card", cost: 10000, icon: "/rewards/giftcard.svg", description: "Claim a gift-card code generated for you." },
-    { id: "crypto", name: "Crypto", amount: "Crypto", cost: 15000, icon: "/rewards/crypto.svg", description: "Continue to the LARPS site for crypto rewards." }
+    { id: "robux", name: "Robux", amount: "400 Robux", cost: 40000, icon: "/rewards/robux.svg", description: "Redeem points for a Robux reward." },
+    { id: "vbucks", name: "V-Bucks", amount: "1,000 V-Bucks", cost: 70000, icon: "/rewards/vbucks.svg", description: "Redeem points for a V-Bucks reward." },
+    { id: "tiktok", name: "TikTok Account", amount: "TikTok Account", cost: 120000, icon: "/rewards/tiktok.svg", description: "Redeem points for a TikTok account reward." },
+    { id: "giftcard", name: "Gift Card", amount: "$10 Gift Card", cost: 100000, icon: "/rewards/giftcard.svg", description: "Claim a gift-card code generated for you." },
+    { id: "crypto", name: "Crypto", amount: "Crypto", cost: 150000, icon: "/rewards/crypto.svg", description: "Continue to the LARPS site for crypto rewards." }
   ];
 
   const quizQuestions = [
