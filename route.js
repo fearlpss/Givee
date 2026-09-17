@@ -1,3 +1,6 @@
+export const runtime = "nodejs";
+export const dynamic = "force-dynamic";
+
 import { getState, setState, hasPersistentStore, finalizeState } from '../../../lib/store';
 
 const OWNER_EMAIL = 'threatenn@outlook.com';
